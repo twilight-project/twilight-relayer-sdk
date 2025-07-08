@@ -55,7 +55,7 @@ branch = "develop"
 
 [dependencies.twilight-client-sdk]
 git = "https://github.com/twilight-project/twilight-client-sdk.git"
-branch = "main"
+branch = "develop"
 
 [dependencies.zkschnorr]
 git = "https://github.com/twilight-project/zk-schnorr.git"
