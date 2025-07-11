@@ -2,7 +2,6 @@
 name = "twilight-relayer-sdk"
 version = "0.1.0"
 edition = "2021"
-authors = ["Usman Shahid"]
 description = "Rust SDK for Twilight blockchain relayer operations and services"
 license = "Apache-2.0"
 repository = "https://github.com/twilight-project/twilight-relayer-sdk"
@@ -59,6 +58,7 @@ branch = "develop"
 
 [dependencies.zkschnorr]
 git = "https://github.com/twilight-project/zk-schnorr.git"
+tag = "v0.1.0"
 
 [dependencies.quisquis-rust]
 git = "https://github.com/twilight-project/quisquis-rust.git"
