@@ -32,6 +32,8 @@ pub extern crate transactionapi;
 pub extern crate twilight_client_sdk; // Updated reference
 pub extern crate zkschnorr;
 pub extern crate zkvm;
+pub extern crate address;
+pub extern crate utxo_in_memory;
 
 pub mod lend;
 pub mod order;
