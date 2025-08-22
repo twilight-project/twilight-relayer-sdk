@@ -42,23 +42,23 @@ log = "0.4.27"
 
 [dependencies.zkvm]
 git = "https://github.com/twilight-project/zkos-rust.git"
-tag = "v0.0.1"
+tag = "v0.1.1"
 
 [dependencies.utxo-in-memory]
 git = "https://github.com/twilight-project/zkos-rust.git"
-tag = "v0.0.1"
+tag = "v0.1.1"
 
 [dependencies.transaction]
 git = "https://github.com/twilight-project/zkos-rust.git"
-tag = "v0.0.1"
+tag = "v0.1.1"
 
 [dependencies.transactionapi]
 git = "https://github.com/twilight-project/zkos-rust.git"
-tag = "v0.0.1"
+tag = "v0.1.1"
 
 [dependencies.twilight-client-sdk]
 git = "https://github.com/twilight-project/twilight-client-sdk.git"
-tag = "v0.0.1"
+tag = "v0.1.0"
 
 [dependencies.zkschnorr]
 git = "https://github.com/twilight-project/zk-schnorr.git"
@@ -70,4 +70,4 @@ tag = "Testnet-v1.0.0"
 
 [dependencies.address]
 git = "https://github.com/twilight-project/zkos-rust.git"
-tag = "v0.0.1"
+tag = "v0.1.1"
