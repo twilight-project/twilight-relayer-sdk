@@ -1,6 +1,6 @@
 [package]
 name = "twilight-relayer-sdk"
-version = "0.1.0"
+version = "0.1.2"
 edition = "2021"
 description = "Rust SDK for Twilight blockchain relayer operations and services"
 license = "Apache-2.0"
@@ -58,9 +58,7 @@ tag = "v0.1.2"
 
 [dependencies.twilight-client-sdk]
 git = "https://github.com/twilight-project/twilight-client-sdk.git"
-# tag = "v0.1.1"
-# path = "../twilight-client-sdk"
-branch = "sltp"
+tag = "v0.1.2"
 
 [dependencies.zkschnorr]
 git = "https://github.com/twilight-project/zk-schnorr.git"
